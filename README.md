@@ -4,7 +4,7 @@ Estudo para criar uma página Web
 <br/>
 <br/>
 
-<p align="center"><a href="https://wenceslau93.github.io/Health-Analytics/">Acesse o projeto Clicando Aqui!</a></p>
+<p align="center"><a href="https://wenceslau93.github.io/Projeto_Spotify/">Acesse o projeto Clicando Aqui!</a></p>
 
 <br/>
 
